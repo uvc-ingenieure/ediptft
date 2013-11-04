@@ -118,7 +118,7 @@ This makes it easy to handle the memory management in more complex designs.
 
     void delete_button(struct eatft *tft)
     {
-        eatft_wdt_free(button);
+        eatft_wdt_free(tft, button);
     }
 
 
