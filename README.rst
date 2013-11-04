@@ -167,6 +167,7 @@ For the UNIX build depends on CMake. The example uses /dev/ttyS0 hardcoded
 as default you have to set it to your needs.
 
 .. code-block:: bash
+
     git clone http://github.com/uvc-ingenieure/eatft.git
     cd eatft && mkdir build && cmake .. && make
     ./test
