@@ -17,6 +17,8 @@ Features
 * Driver for UNIX and AVR for testing on PC before deployment to microcontroller
 * MIT License
 
+.. image:: https://raw.github.com/uvc-ingenieure/eatft/master/images/test.jpg
+
 ==========
 Interfaces
 ==========
