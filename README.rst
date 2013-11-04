@@ -91,6 +91,7 @@ and registeres callbacks.
 This makes it easy to handle the memory management in more complex designs.
 
 .. code-block:: c
+
     struct eatft_widget *button;
 
     void button_clicked(struct eatft *tft, struct eatft_widget *widget, bool down)
