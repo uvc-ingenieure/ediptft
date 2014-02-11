@@ -168,7 +168,7 @@ as default you have to set it to your needs.
 
 .. code-block:: bash
 
-    git clone http://github.com/uvc-ingenieure/eatft.git
+    git clone http://github.com/uvc-ingenieure/ediptft.git
     cd eatft && mkdir build && cmake .. && make
     ./test
 
